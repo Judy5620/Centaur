@@ -1,0 +1,167 @@
+[
+  {
+    "id": "Normative Theory",
+    "prompt": "You are taking part in a reasoning experiment. 
+    In each trial, you will be presented with a multiple-choice question. 
+    Please choose the answer that seems most reasonable to you by pressing the corresponding key. 
+    Only output your choice as <<1>>, <<2>>, <<3>>, <<4>>, or <<5>> with no explanation. 
+    Question: 
+    There is a very large sheet of paper. 
+    You fold it in half, then fold it in half again. 
+    If you repeat this process 50 times, how thick will the paper be? 
+    1: The height of a desk 
+    2: The height of a ceiling 
+    3: The height of the 63 Building 
+    4: The height of Mount Everest 
+    5: The distance from the Earth to the Sun 
+    You press <<"
+  },
+  {
+    "id": "example_002",
+    "prompt": "You are taking part in a reasoning experiment.\n  In each trial, you will be presented with a multiple-choice question.\n  Please choose the answer that seems most reasonable to you by pressing the corresponding key.\n  Only output your choice as <<1>>, <<2>>, <<3>>, <<4>>, or <<5>> with no explanation.\n  Question:\n  There is a very large sheet of paper.\n  You fold it in half, then fold it in half again.\n  If you repeat this process 50 times, how thick will the paper be?\n  1: The height of a desk\n  2: The height of a ceiling\n  3: The height of the 63 Building\n  4: The height of Mount Everest\n  5: The distance from the Earth to the Sun\n  You press <<"
+  },
+  {
+    "id": "example_003",
+    "prompt": "\nYou press <<"
+  },
+  {
+    "id": "example_004",
+    "prompt": "In each trial, you will be presented with a multiple-choice question.\n  Please choose the answer that seems most reasonable to you by pressing the corresponding key.\n  Only output your choice as <<1>>, <<2>>, <<3>>, <<4>>, or <<5>> with no explanation.\n  Question:\n  There is a very large sheet of paper.\n  You fold it in half, then fold it in half again.\n  If you repeat this process 50 times, how thick will the paper be?\n  1: The height of a desk\n  2: The height of a ceiling\n  3: The height of the 63 Building\n  4: The height of Mount Everest\n  5: The distance from the Earth to the Sun\nYou press <<"
+  },
+  {
+    "id": "example_005",
+    "prompt": "You are taking part in a reasoning experiment.\nIn each trial, you will read a short description of a person and choose the statement that seems least likely to describe that person.\nPlease choose as a human would — based on intuition, not strict logic.\nOutput only your choice in the format <<1>>, <<2>>, or <<3>> with no explanation.\nDescription:\nMr. Kim Young-min is a 31-year-old single man with a very outgoing personality.\nHe majored in philosophy while attending university and was actively involved in various student activities.\nHe is very interested in social issues and goes to rural areas for volunteer work every summer vacation.\nQuestion:\nWhich of the following statements is least likely to describe Mr. Kim Young-min?\n1: Mr. Kim Young-min works for a loan shark company.\n2: Mr. Kim Young-min supports environmental activism.\n3: Mr. Kim Young-min works for a loan shark company and supports environmental activism.\nYou press <<"
+  },
+  {
+    "id": "example_007",
+    "prompt": "In each trial, you will read a short description of a person and choose the statement that seems least likely to describe that person.\nPlease choose as a human would — based on intuition, not strict logic.\nOutput only your choice in the format <<1>>, <<2>>, or <<3>> with no explanation.\nDescription:\nMr. Kim Young-min is a 31-year-old single man with a very outgoing personality.\nHe majored in philosophy while attending university and was actively involved in various student activities.\nHe is very interested in social issues and goes to rural areas for volunteer work every summer vacation.\nQuestion:\nWhich of the following statements is least likely to describe Mr. Kim Young-min?\n1: Mr. Kim Young-min works for a loan shark company.\n2: Mr. Kim Young-min supports environmental activism.\n3: Mr. Kim Young-min works for a loan shark company and supports environmental activism.\nYou press <<"
+  },
+  {
+    "id": "example_008",
+    "prompt": "You are taking part in a reasoning experiment.\nSelect the answer that seems most plausible to you.\nOutput only <<1>>, <<2>>, or <<3>>.\nA certain town is served by two hospitals.\nIn the larger hospital about 45 babies are born each day, and in the smaller hospital about 15 babies are born each day.\nAbout 50 percent of all babies are boys, though the percentage varies from day to day.\nOver a year, each hospital recorded the number of days when more than 60 percent of the babies born were boys.\nWhich hospital recorded more such days?\nQuestion:\nWhich of the following statements is least likely to describe Mr. Kim Young-min?\n1: The larger hospital\n2: The smaller hospital\n3: About the same (within 5 percent)\nYou press <<"
+  },
+  {
+    "id": "example_010",
+    "prompt": "Select the answer that seems most plausible to you.\nOutput only <<1>>, <<2>>, or <<3>>.\nA certain town is served by two hospitals.\nIn the larger hospital about 45 babies are born each day, and in the smaller hospital about 15 babies are born each day.\nAbout 50 percent of all babies are boys, though the percentage varies from day to day.\nOver a year, each hospital recorded the number of days when more than 60 percent of the babies born were boys.\nWhich hospital recorded more such days?\nQuestion:\nWhich of the following statements is least likely to describe Mr. Kim Young-min?\n1: The larger hospital\n2: The smaller hospital\n3: About the same (within 5 percent)\nYou press <<"
+  },
+  {
+    "id": "example_011",
+    "prompt": "You are taking part in a reasoning experiment.\nSelect who should be more confident that the urn truly contains ⅔ red balls and ⅓ white balls.\nOutput only <<1>> or <<2>>.\n- Person A drew 5 balls: 4 red, 1 white.\n- Person B drew 20 balls: 12 red, 8 white.\nQuestion:\nWho should be more confident?\n1: Person A\n2: Person B\nYou press <<"
+  },
+  {
+    "id": "example_013",
+    "prompt": "Select who should be more confident that the urn truly contains ⅔ red balls and ⅓ white balls.\nOutput only <<1>> or <<2>>.\n- Person A drew 5 balls: 4 red, 1 white.\n- Person B drew 20 balls: 12 red, 8 white.\nQuestion:\nWho should be more confident?\n1: Person A\n2: Person B\nYou press <<"
+  },
+  {
+    "id": "example_014",
+    "prompt": "You are taking part in a reasoning experiment.\nIn this task, you will answer questions about coin flips.\nFor each question, choose the option that best matches your judgment.\nOutput only your choice as <<1>>, <<2>>, or <<3>> with no explanation.\nYou flip a fair coin six times and obtain the following sequence:\nH – T – H – T – T – H\nQuestion:\nDo you think this sequence is more likely, less likely, or just as likely to occur as a sequence like H-H-H-T-T-T or H-H-H-H-T-H?\n1: This sequence seems more likely because it has both heads and tails.\n2: This sequence seems less likely because it has too many changes between heads and tails.\n3: This sequence is just as likely as any other sequence of six coin flips.\nYou press <<"
+  },
+  {
+    "id": "example_016",
+    "prompt": "In this task, you will answer questions about coin flips.\nFor each question, choose the option that best matches your judgment.\nOutput only your choice as <<1>>, <<2>>, or <<3>> with no explanation.\nYou flip a fair coin six times and obtain the following sequence:\nH – T – H – T – T – H\nQuestion:\nDo you think this sequence is more likely, less likely, or just as likely to occur as a sequence like H-H-H-T-T-T or H-H-H-H-T-H?\n1: This sequence seems more likely because it has both heads and tails.\n2: This sequence seems less likely because it has too many changes between heads and tails.\n3: This sequence is just as likely as any other sequence of six coin flips.\nYou press <<"
+  },
+  {
+    "id": "example_017",
+    "prompt": "You are taking part in a reasoning experiment.\nSelect the answer that seems most plausible to you.\nOutput only <<1>>, <<2>>, <<3>>, or <<4>>.\nYou roll a die ten times and get only even numbers.\nWhat do you expect on the next roll?\n1: More likely an odd number to balance out.\n2: Completely independent; every number equally likely.\n3: The die is probably defective.\n4: You’ve used up your luck; an odd number is guaranteed next.\nYou press <<"
+  },
+  {
+    "id": "example_019",
+    "prompt": "Select the answer that seems most plausible to you.\nOutput only <<1>>, <<2>>, <<3>>, or <<4>>.\nYou roll a die ten times and get only even numbers.\nWhat do you expect on the next roll?\n1: More likely an odd number to balance out.\n2: Completely independent; every number equally likely.\n3: The die is probably defective.\n4: You’ve used up your luck; an odd number is guaranteed next.\nYou press <<"
+  },
+  {
+    "id": "example_020",
+    "prompt": "You are taking part in a reasoning experiment.\nYou are participating in a reasoning experiment.\nSelect what you would do.\nOutput only <<1>>, <<2>>, or <<3>>.\nAt a casino, a roulette wheel has landed on red five times in a row.\nHow would you bet next?\n1: Bet on black, expecting a change.\n2: Bet on red, expecting the streak to continue.\n3: Bet randomly, ignoring prior results.\nYou press <<"
+  },
+  {
+    "id": "example_022",
+    "prompt": "You are participating in a reasoning experiment.\nSelect what you would do.\nOutput only <<1>>, <<2>>, or <<3>>.\nAt a casino, a roulette wheel has landed on red five times in a row.\nHow would you bet next?\n1: Bet on black, expecting a change.\n2: Bet on red, expecting the streak to continue.\n3: Bet randomly, ignoring prior results.\nYou press <<"
+  },
+  {
+    "id": "example_023",
+    "prompt": "You are taking part in a reasoning experiment.\nAfter 10 coin flips (8 heads, 2 tails), Person A concludes the coin is biased toward heads.\nDo you agree?\n1: Yes, A’s conclusion is correct.\n2: No, A’s conclusion is incorrect.\n3: Not sure.\nYou press <<"
+  },
+  {
+    "id": "example_025",
+    "prompt": "After 10 coin flips (8 heads, 2 tails), Person A concludes the coin is biased toward heads.\nDo you agree?\n1: Yes, A’s conclusion is correct.\n2: No, A’s conclusion is incorrect.\n3: Not sure.\nYou press <<"
+  },
+  {
+    "id": "example_026",
+    "prompt": "You are taking part in a reasoning experiment.\nThe same coin is flipped 1,000 times (520 heads, 480 tails).\nPerson B concludes the coin is fair.\nDo you agree?\n1: Yes, B’s conclusion is correct.\n2: No, B’s conclusion is incorrect.\n3: Not sure.\nYou press <<"
+  },
+  {
+    "id": "example_028",
+    "prompt": "The same coin is flipped 1,000 times (520 heads, 480 tails).\nPerson B concludes the coin is fair.\nDo you agree?\n1: Yes, B’s conclusion is correct.\n2: No, B’s conclusion is incorrect.\n3: Not sure.\nYou press <<"
+  },
+  {
+    "id": "example_029",
+    "prompt": "You are taking part in a reasoning experiment.\nFor each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher A: The lesson is well-structured and engaging.\nHow would you rate lesson Quality (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_031",
+    "prompt": "For each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher A: The lesson is well-structured and engaging.\nHow would you rate lesson Quality (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_032",
+    "prompt": "You are taking part in a reasoning experiment.\nFor each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher A: The lesson is well-structured and engaging.\nHow would you rate predicted future success in 5 years (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_034",
+    "prompt": "For each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher A: The lesson is well-structured and engaging.\nHow would you rate predicted future success in 5 years (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_035",
+    "prompt": "You are taking part in a reasoning experiment.\nFor each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher B: The lesson has some good elements but also clear areas for improvement.\nHow would you rate predicted lesson quality (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_037",
+    "prompt": "For each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher B: The lesson has some good elements but also clear areas for improvement.\nHow would you rate predicted lesson quality (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_038",
+    "prompt": "You are taking part in a reasoning experiment.\nFor each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher B: The lesson has some good elements but also clear areas for improvement.\nHow would you rate predicted future success in 5 years (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_040",
+    "prompt": "For each teacher description, rate on a scale from 1 (Very Poor) to 10 (Excellent).\nOutput in the format <<score>>.\nTeacher B: The lesson has some good elements but also clear areas for improvement.\nHow would you rate predicted future success in 5 years (1–10)?\nYou press <<"
+  },
+  {
+    "id": "example_041",
+    "prompt": "You are taking part in a reasoning experiment.\nRead the information and choose the option that matches your intuition.\nOutput only one choice marker (<<1>> … <<6>>).\nCompany TechStar has launched a revolutionary product receiving strong positive media coverage.\nIts stock price has risen steadily for months.\nHow likely do you think the stock price will continue increasing next year?\n1: Definitely will increase (almost guaranteed)\n2: Likely to increase (above 50%)\n3: Unsure, could go either way (~50%)\n4: Less likely to increase (26–49%)\n5: Definitely will decrease (almost guaranteed)\n6: Im not sure\nYou press <<"
+  },
+  {
+    "id": "example_043",
+    "prompt": "Read the information and choose the option that matches your intuition.\nOutput only one choice marker (<<1>> … <<6>>).\nCompany TechStar has launched a revolutionary product receiving strong positive media coverage.\nIts stock price has risen steadily for months.\nHow likely do you think the stock price will continue increasing next year?\n1: Definitely will increase (almost guaranteed)\n2: Likely to increase (above 50%)\n3: Unsure, could go either way (~50%)\n4: Less likely to increase (26–49%)\n5: Definitely will decrease (almost guaranteed)\n6: Im not sure\nYou press <<"
+  },
+  {
+    "id": "example_044",
+    "prompt": "You are taking part in a reasoning experiment.\nYou are participating in a reasoning experiment.\nRate your confidence level on a scale 1 (Not confident at all) to 5 (Very confident).\nOutput in the format <<score>>.\nYou have two students:\n- Student A: All B grades in Year 1.\n- Student B: A mix of A’s, B’s, and C’s in Year 1.\nHow confident are you in predicting each student A's final GPA?\nYou press <<"
+  },
+  {
+    "id": "example_046",
+    "prompt": "You are participating in a reasoning experiment.\nRate your confidence level on a scale 1 (Not confident at all) to 5 (Very confident).\nOutput in the format <<score>>.\nYou have two students:\n- Student A: All B grades in Year 1.\n- Student B: A mix of A’s, B’s, and C’s in Year 1.\nHow confident are you in predicting each student A's final GPA?\nYou press <<"
+  },
+  {
+    "id": "example_047",
+    "prompt": "You are taking part in a reasoning experiment.\nYou are participating in a reasoning experiment.\nRate your confidence level on a scale 1 (Not confident at all) to 5 (Very confident).\nOutput in the format <<score>>.\nYou have two students:\n- Student A: All B grades in Year 1.\n- Student B: A mix of A’s, B’s, and C’s in Year 1.\nHow confident are you in predicting each student B's final GPA?\nYou press <<"
+  },
+  {
+    "id": "example_049",
+    "prompt": "You are participating in a reasoning experiment.\nRate your confidence level on a scale 1 (Not confident at all) to 5 (Very confident).\nOutput in the format <<score>>.\nYou have two students:\n- Student A: All B grades in Year 1.\n- Student B: A mix of A’s, B’s, and C’s in Year 1.\nHow confident are you in predicting each student B's final GPA?\nYou press <<"
+  },
+  {
+    "id": "example_050",
+    "prompt": "You are taking part in a reasoning experiment.\nSelect the statement that best describes your judgment style.\nOutput only <<1>> or <<2>>.\nDo you feel more confident in predictions when input variables are redundant or correlated, even knowing that redundancy may reduce accuracy?\n1: Yes, I tend to feel more confident with redundant or correlated inputs.\n2: No, I prioritize accuracy and prefer independent inputs.\nYou press <<"
+  },
+  {
+    "id": "example_052",
+    "prompt": "Select the statement that best describes your judgment style.\nOutput only <<1>> or <<2>>.\nDo you feel more confident in predictions when input variables are redundant or correlated, even knowing that redundancy may reduce accuracy?\n1: Yes, I tend to feel more confident with redundant or correlated inputs.\n2: No, I prioritize accuracy and prefer independent inputs.\nYou press <<"
+  },
+  {
+    "id": "example_053",
+    "prompt": "You are taking part in a reasoning experiment.\nSelect the statement that seems most plausible to you.\nOutput only <<1>>, <<2>>, <<3>>, or <<4>>.\nA group of students took two similar math tests.\nWe select the 10 students with the highest scores on the first test.\nWhat will their scores likely be on the second test?\n1: Even higher on the second test.\n2: About the same.\n3: Lower but still above average.\n4: Completely unpredictable.\n\nYou press <<"
+  },
+  {
+    "id": "example_055",
+    "prompt": "Select the statement that seems most plausible to you.\nOutput only <<1>>, <<2>>, <<3>>, or <<4>>.\nA group of students took two similar math tests.\nWe select the 10 students with the highest scores on the first test.\nWhat will their scores likely be on the second test?\n1: Even higher on the second test.\n2: About the same.\n3: Lower but still above average.\n4: Completely unpredictable.\nYou press <<"
+  }
+]
